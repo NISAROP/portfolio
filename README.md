@@ -26,7 +26,7 @@ show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a d
 google_analytics: [Your Google Analytics tracking ID]
 ```
 
-### Stylesheet
+### new changes made by Nisar
 
 If you'd like to add your own custom styles:
 
